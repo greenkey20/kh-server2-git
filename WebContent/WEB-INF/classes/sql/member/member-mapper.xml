@@ -22,7 +22,6 @@
 			   		  , INTEREST) VALUES(SEQ_UNO.NEXTVAL, ?, ?, ?, ?, ?, ?, ?)
 	</entry>
 	
-	
 	<entry key="updateMember">
 		UPDATE
 				MEMBER
